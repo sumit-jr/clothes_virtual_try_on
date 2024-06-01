@@ -1,5 +1,5 @@
 # Cloths Virtual Try On
-[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sumit-jr/clothes_virtual_try_on/blob/main/setup_gradio.ipynb)
+[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sumit-jr/clothes_virtual_try_on/blob/master/setup_gradio.ipynb)
 
 ## Table of contents
 - [Cloths Virtual Try On](#cloths-virtual-try-on)
